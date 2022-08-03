@@ -1,0 +1,10 @@
+name: WorldGen
+version: ${project.version}
+main: uk.antiperson.worldgen.WorldGen
+api-version: 1.16
+prefix: fdsf
+load: STARTUP
+commands:
+  worldgen:
+    aliases:
+      - wg

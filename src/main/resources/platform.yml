@@ -1,0 +1,104 @@
+layer-1:
+  size-x: 3
+  size-z: 3
+  mats:
+    - AIR
+    - AIR
+    - AIR
+    - AIR
+    - OAK_LOG
+    - AIR
+    - AIR
+    - AIR
+    - AIR
+layer-2:
+  size-x: 3
+  size-z: 3
+  mats:
+    - AIR
+    - AIR
+    - AIR
+    - AIR
+    - OAK_LOG
+    - AIR
+    - AIR
+    - AIR
+    - AIR
+layer-3:
+  size-x: 3
+  size-z: 3
+  mats:
+    - AIR
+    - AIR
+    - AIR
+    - AIR
+    - OAK_LOG
+    - AIR
+    - AIR
+    - AIR
+    - AIR
+layer-4:
+  size-x: 3
+  size-z: 3
+  mats:
+    - AIR
+    - AIR
+    - AIR
+    - AIR
+    - OAK_LOG
+    - AIR
+    - AIR
+    - AIR
+    - AIR
+layer-5:
+  size-x: 3
+  size-z: 3
+  mats:
+    - AIR
+    - AIR
+    - AIR
+    - AIR
+    - OAK_LOG
+    - AIR
+    - AIR
+    - AIR
+    - AIR
+layer-6:
+  size-x: 3
+  size-z: 3
+  mats:
+    - AIR
+    - OAK_LEAVES
+    - OAK_LEAVES
+    - OAK_LEAVES
+    - OAK_LOG
+    - OAK_LEAVES
+    - OAK_LEAVES
+    - OAK_LEAVES
+    - OAK_LEAVES
+layer-7:
+  size-x: 3
+  size-z: 3
+  mats:
+    - AIR
+    - OAK_LEAVES
+    - OAK_LEAVES
+    - OAK_LEAVES
+    - OAK_LOG
+    - OAK_LEAVES
+    - AIR
+    - OAK_LEAVES
+    - AIR
+layer-8:
+  size-x: 3
+  size-z: 3
+  mats:
+    - AIR
+    - OAK_LEAVES
+    - AIR
+    - OAK_LEAVES
+    - OAK_LEAVES
+    - OAK_LEAVES
+    - AIR
+    - OAK_LEAVES
+    - AIR
